@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cari_pengguna">Cari Pengguna</string>
+    <string name="username">username</string>
+    <string name="following">following</string>
+    <string name="followers">followers</string>
+    <string name="name">name</string>
+</resources>
